@@ -1,2 +1,2 @@
 # Aluraplus
-pranticando HTML e CSS
+praticando HTML e CSS
